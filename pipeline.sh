@@ -1,4 +1,3 @@
-#!/bin/bash
 
 export IDA_HOST=$1
 export PIPELINE_ID=$2
